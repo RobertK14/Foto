@@ -1,0 +1,34 @@
+{
+  "sectionTitle": "Co mówią o mnie klienci",
+  "sectionDescription": "Najlepszą rekomendacją są zadowolone rodziny. Przeczytajcie, co napisali moi klienci.",
+  "testimonials": [
+    {
+      "name": "Małgorzata i Tomasz",
+      "image": "https://images.pexels.com/photos/1024311/pexels-photo-1024311.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      "text": "Anna ma niesamowity dar do wychwytywania naturalnych momentów. Nasze zdjęcia rodzinne są przepiękne i pełne emocji. Dziękujemy za uwiecznienie tych wyjątkowych chwil!",
+      "rating": 5,
+      "session": "Sesja rodzinna"
+    },
+    {
+      "name": "Agnieszka",
+      "image": "https://images.pexels.com/photos/1542085/pexels-photo-1542085.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      "text": "Sesja ciążowa była dla mnie niezwykłym przeżyciem. Anna sprawiła, że czułam się pięknie i komfortowo. Zdjęcia są artystyczne i bardzo delikatne.",
+      "rating": 5,
+      "session": "Sesja ciążowa"
+    },
+    {
+      "name": "Katarzyna i Michał",
+      "image": "https://images.pexels.com/photos/1080213/pexels-photo-1080213.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      "text": "Sesja noworodkowa naszej córeczki przebiegła idealnie. Anna była bardzo cierpliwa i profesjonalna. Mamy teraz przepiękne wspomnienia z pierwszych dni życia Zosi.",
+      "rating": 5,
+      "session": "Sesja noworodkowa"
+    },
+    {
+      "name": "Anna i Paweł",
+      "image": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=150&h=150&fit=crop",
+      "text": "Profesjonalizm na najwyższym poziomie! Anna potrafiła rozluźnić atmosferę i sprawić, że sesja była przyjemnością. Polecamy z całego serca!",
+      "rating": 5,
+      "session": "Sesja rodzinna"
+    }
+  ]
+}
